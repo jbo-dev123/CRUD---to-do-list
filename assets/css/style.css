@@ -53,3 +53,15 @@ body {
     color: #5e514d;
     padding: 10px;
 }
+
+.apagar{
+    background-color: #c7c0b8;
+    border:#c7c0b8 1px solid;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    letter-spacing: 1px;
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+}
