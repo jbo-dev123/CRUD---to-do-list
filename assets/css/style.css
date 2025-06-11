@@ -44,7 +44,7 @@ body {
     background-color: #79736d;
 }
 
-.input-tarefa{
+.input-tarefa,.input-salvo{
     background-color: transparent;
     border: 1px #b6a497 solid;
     border-radius: 20px;
@@ -54,7 +54,7 @@ body {
     padding: 10px;
 }
 
-.apagar{
+.apagar, .editar,.salvar{
     background-color: #c7c0b8;
     border:#c7c0b8 1px solid;
     color: white;
