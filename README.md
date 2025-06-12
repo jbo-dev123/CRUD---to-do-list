@@ -28,6 +28,14 @@ Uma aplicação simples de lista de tarefas feita com **HTML**, **CSS** e **Java
 
 ---
 
+## ✅ Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/jbo-dev123/CRUD-to-do-list.git
+   
+---
+
 ## 🌐 Acesse o projeto online
 
 Você pode acessar o site funcionando neste link: 
